@@ -11,6 +11,10 @@ Day 5:- I learn git and github
 I add notes of javascript
 Adding new notes of branches
 
+
 Branch A Changes:- Add new feature A
+
+Feature B :- Adding new feature B
+
 
 End of Section 1
