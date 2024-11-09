@@ -1,0 +1,11 @@
+Day 1:- I learn what is web and intro html
+
+Day 2:- I learn html 1
+
+Day 3:- I learn html 2
+
+Day 4:- I learn html 3
+
+Day 5:- I learn git and github
+
+End of Section 1
