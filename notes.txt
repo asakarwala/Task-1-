@@ -9,5 +9,6 @@ Day 4:- I learn html 3
 Day 5:- I learn git and github
 
 I add notes of javascript
+Adding new notes of branches
 
 End of Section 1
